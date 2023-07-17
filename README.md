@@ -1,0 +1,2 @@
+# karthik
+Data Mining Assignment
